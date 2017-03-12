@@ -6,4 +6,4 @@ Every requirement is listed here
 4. Name of both parents
 5. Social Security
 6. Passport
-7. License
+7. Country of residency
