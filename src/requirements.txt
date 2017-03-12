@@ -8,3 +8,4 @@ Every requirement is listed here
 6. Passport
 7. License
 8. Eyes color
+9. Height
